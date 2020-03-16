@@ -18,6 +18,10 @@ function MainContent(){
             <label for="vehicle3"> Bus</label><br/>
             <input type="checkbox" name="vehicle4" value="Boat"/>
             <label for="vehicle4"> Boat</label><br/>
+            <input type="checkbox" name="vehicle4" value="Boat"/>
+            <label for="vehicle4"> Boat</label><br/>
+            <input type="checkbox" name="vehicle4" value="Boat"/>
+            <label for="vehicle4"> Boat</label><br/>
         </div>
     )
 }
