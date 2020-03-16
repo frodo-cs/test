@@ -10,8 +10,8 @@ function MainContent(){
             <h1>MAIN</h1>
             <p>This is the {`${txt2} ${txt}`}!</p>
             <p>It is currently about {date.getHours() % 12} o'clock</p>
-            <input type="checkbox" name="vehiculooo1" value="Bike"/>
-            <label for="vehiculooo1"> Bike</label><br/>
+            <input type="checkbox" name="vehicle00" value="Bike"/>
+            <label for="vehicle00"> Bike</label><br/>
             <input type="checkbox" name="vehicle2" value="Car"/>
             <label for="vehicle2"> Car</label><br/>
             <input type="checkbox" name="vehicle3" value="Bus"/>
