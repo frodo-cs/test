@@ -1,0 +1,43 @@
+
+insert into film (title, year) values ('The Shawshank Redemption', 1994)
+insert into person (firstName, lastName) values ('Tim', 'Robbins'), ('Morgan', 'Freeman'), ('Frank', 'Darabont')
+
+insert into film (title, year) values ('The Godfather', 1972)
+insert into person (firstName, lastName) values ('Francis Ford', 'Coppola'), ('Marlon', 'Brando'), ('Al', 'Pacino')
+
+insert into film (title, year) values ('Reservoir Dogs', 1992)
+insert into person (firstName, lastName) values ('Quentin', 'Tarantino'), ('Tim', 'Roth'), ('Steve', 'Buscemi')
+
+insert into film (title, year) values ('Star Wars: Episode V - The Empire Strikes Back', 1980)
+insert into person (firstName, lastName) values ('Irvin', 'Kershner'), ('Harrison', 'Ford'), ('Mark', 'Hammill'), ('Carrie', 'Fisher')
+
+insert into film (title, year) values ('Blade Runner', 1982)
+insert into person (firstName, lastName) values ('Ridley', 'Scott'), ('Sean', 'Young')
+
+insert into film (title, year) values ('The Death of Stalin', 2017) 
+insert into person (firstName, lastName) values ('Armando', 'Iannucci'), ('Olga', 'Kurylenko')
+
+
+Shawshank
+director: Darabont
+actores: Freeman, Robbins
+
+Godfather
+director: Coppola
+actores: Brando, Pacino
+
+Reservoir Dogs
+director: Tarantino
+actores: Tarantino, Buscemi, Roth
+
+Blade Runner
+director: Scott
+actores: Ford, Young
+
+Death of Stalin
+director: Iannucci
+actores: Kurylenko
+
+Star Wars
+director: Kershner
+actores: Hammill, Ford, Fisher
